@@ -7,7 +7,7 @@ package lista.circular;
 
 /**
  *
- * @author redoaxaca
+ * @author karimnot
  */
 public enum Sentido {
     

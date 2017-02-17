@@ -9,7 +9,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author redoaxaca
+ * @author karimnot
  */
 public class ListaDoble<T> implements Iterable<T> {
 

@@ -2,7 +2,7 @@ package lista.simple;
 
 /**
  *
- * @author redoaxaca
+ * @author karimnot
  */
 public class Nodo<T> {
     

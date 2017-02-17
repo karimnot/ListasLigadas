@@ -7,7 +7,7 @@ package lista.doble;
 
 /**
  *
- * @author redoaxaca
+ * @author karimnot
  */
 public class Nodo<T> {
     

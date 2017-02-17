@@ -12,7 +12,7 @@ import lista.simple.ListaSimple;
 
 /**
  *
- * @author redoaxaca
+ * @author karimnot
  */
 public class Main {
 

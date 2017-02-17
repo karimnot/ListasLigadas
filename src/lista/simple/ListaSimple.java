@@ -4,7 +4,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author redoaxaca
+ * @author karimnot
  */
 public class ListaSimple<T> implements Iterable<T> {
 

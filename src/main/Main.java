@@ -87,6 +87,8 @@ public class Main {
             System.out.println(circular.getElemento());
             
         }
+        
+        System.out.println("*** FIN ***");
     }
 
 }
